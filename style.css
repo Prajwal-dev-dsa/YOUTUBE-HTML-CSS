@@ -201,3 +201,165 @@ body {
     font-size: .70rem;
     text-align: center;
 }
+
+/* --------------------------------------------------------NAVBAR-------------------------------------------------------- */
+
+
+
+
+.flexall {
+    height: 800px;
+    width: 1000px;
+    background-color: rgb(22, 22, 22);
+    color: white;
+}
+
+.navbar {
+    height: 56px;
+    width: 1400px;
+    background-color: rgb(22, 22, 22);
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.navbar-all {
+    height: 32px;
+    background-color: rgb(56, 56, 56);
+    width: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+}
+
+.cricket {
+    height: 32px;
+    background-color: rgb(56, 56, 56);
+    width: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+}
+
+.music {
+    height: 32px;
+    background-color: rgb(56, 56, 56);
+    width: 65px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+}
+
+.webd {
+    height: 32px;
+    background-color: rgb(56, 56, 56);
+    width: 160px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+}
+
+.appd {
+    height: 32px;
+    background-color: rgb(56, 56, 56);
+    width: 155px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+}
+
+.football {
+    height: 32px;
+    background-color: rgb(56, 56, 56);
+    width: 85px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+}
+
+.sports {
+    height: 32px;
+    background-color: rgb(56, 56, 56);
+    width: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+}
+
+.ai {
+    height: 32px;
+    background-color: rgb(56, 56, 56);
+    width: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+}
+
+.af {
+    height: 32px;
+    background-color: rgb(56, 56, 56);
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+}
+
+.fs {
+    height: 32px;
+    background-color: rgb(56, 56, 56);
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+}
+
+.ipl {
+    height: 32px;
+    background-color: rgb(56, 56, 56);
+    width: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+}
+
+.dsa {
+    height: 32px;
+    background-color: rgb(56, 56, 56);
+    width: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+}
+
+.oops {
+    height: 32px;
+    background-color: rgb(56, 56, 56);
+    width: 110px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+}
+
+.elite {
+    background-color: rgb(56, 56, 56);
+    color: white;
+}
+
+.elite:hover {
+    background-color: white;
+    color: black;
+}
